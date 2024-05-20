@@ -202,6 +202,9 @@
     .product-cart-list-action hr:nth-last-child(4){
         display: none;
     }
+    .product-cart-list img{
+        min-width: 40%;
+    }
     .cart-right{
         min-width: 100%;
     }
